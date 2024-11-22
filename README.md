@@ -86,7 +86,12 @@
    <i>Transformando ideas en soluciones, una línea de código a la vez.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/yoshio-onuki-480b70283/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp;
-<a target="_blank" href="mailto:onukinavas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/yoshio-onuki-480b70283/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
+</a>
+&nbsp;
+<a target="_blank" href="mailto:onukinavas@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+</a>
 <br>
 </p>
