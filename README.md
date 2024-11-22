@@ -74,8 +74,19 @@
   <i><b>Mis estadísticas de GitHub</b></i>
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoshioOnuki&show_icons=true&locale=en&layout=compact" alt="YoshioOnuki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoshioOnuki&show_icons=true&locale=en" alt="YoshioOnuki" width="410" /></p>
+<p align="center">
+  <a href="https://github.com/YoshioOnuki">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YoshioOnuki&show_icons=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoshioOnuki&layout=compact&langs_count=12&count_private=true"/>
+  </a>  
+</p>
 
 <hr>
+<p align="center">
+   <i>Transformando ideas en soluciones, una línea de código a la vez.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/yoshio-onuki-480b70283/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp;
+<a target="_blank" href="mailto:onukinavas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>&nbsp;
+<br>
+</p>
