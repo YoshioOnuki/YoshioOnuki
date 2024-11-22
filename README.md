@@ -10,7 +10,7 @@
 - 🎓 Profesional en Ingeniería de Sistemas.
 - 👨🏻‍💻 Actualmente trabajo en la Escuela de Posgrado de la Universidad Nacional de Ucayali como Analista y Desarrollador Web.
 - 💻 Experto en Laravel, Livewire, y diseño de datos relacionales (MySQL).
-- 🌱 Actualmente aprendiendo Java 17 y Spring Boot.
+- 🌱 Actualmente aprendiendo: Spring Boot, JavaScript, Node.js, Express y arquitectura de microservicios.
 - 🚀 Construyendo proyectos en desarrollo web.
 - 🌍 Idiomas: Español, Portugués (intermedio).
 
