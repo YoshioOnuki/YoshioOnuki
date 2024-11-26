@@ -50,6 +50,7 @@
 - #### 🎛️ &nbsp; Application and Tools:
 
     <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0079d7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj4KCTxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMzAuODY1IDMuNDQ4TDI0LjI4Mi4yODFhMS45OSAxLjk5IDAgMCAwLTIuMjc2LjM4NUw5LjM5NyAxMi4xNzFMMy45MDIgOC4wMDRhMS4zMyAxLjMzIDAgMCAwLTEuNzAzLjA3M0wuNDM5IDkuNjgxYTEuMzMgMS4zMyAwIDAgMC0uMDA1IDEuOTY5TDUuMiAxNS45OTlMLjQzNCAyMC4zNDhhMS4zMyAxLjMzIDAgMCAwIC4wMDUgMS45NjlsMS43NiAxLjYwNGExLjMzIDEuMzMgMCAwIDAgMS43MDMuMDczbDUuNDk1LTQuMTcybDEyLjYxNSAxMS41MWExLjk4MiAxLjk4MiAwIDAgMCAyLjI3MS4zODVsNi41ODktMy4xNzJhMS45OTMgMS45OTMgMCAwIDAgMS4xMy0xLjgwMlY1LjI0OGMwLS43NjYtLjQ0My0xLjQ2OS0xLjEzNS0xLjgwMnptLTYuODYgMTkuODE4TDE0LjQzMiAxNmw5LjU3My03LjI2NnoiIC8+Cjwvc3ZnPg==&logoColor=white&link=https://code.visualstudio.com" alt="Visual Studio Code" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/>&nbsp;
     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=2C2255&labelColor=e2e8f0)&nbsp;
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="28">&nbsp;
