@@ -29,6 +29,7 @@
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
     ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FF2D20&color=FF2D20&labelColor=e2e8f0)&nbsp;
     <img src="https://img.shields.io/badge/livewire-143?style=for-the-badge&logo=livewire&logoColor=fb70a9&color=black&labelColor=e2e8f0" height="28">&nbsp;
+    ![Alpine](https://img.shields.io/badge/Alpine-a0ccd8?style=for-the-badge&logo=alpine-js&logoColor=white)&nbsp;
     ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
