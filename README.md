@@ -2,7 +2,7 @@
   Hola, soy Yoshio Onuki Navas <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+  <img src="/header.png">
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?&font=IBM+Plex+Sans&size=22&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+desarrollador+de+software&center=true">
