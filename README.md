@@ -80,7 +80,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/YoshioOnuki">
-
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YoshioOnuki&show_icons=true&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoshioOnuki&layout=compact&langs_count=12&count_private=true"/>
   </a>  
 </p>
 
