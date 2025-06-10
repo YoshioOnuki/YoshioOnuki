@@ -11,7 +11,7 @@
 
 ## Sobre mí
 - 🎓 Profesional en Ingeniería de Sistemas.
-- 👨🏻‍💻 Actualmente trabajo en la Universidad Nacional Intercultural de la Amazonía como Gestor y Desarrollador.
+- 👨🏻‍💻 Actualmente trabajo en la Universidad Nacional Intercultural de la Amazonía como Desarrollador de Software.
 - 💻 Experto en Laravel, Livewire, y diseño de datos relacionales (MySQL).
 - 🚀 Construyendo proyectos en desarrollo web.
 - 🌍 Idiomas: Español, Portugués (intermedio).
